@@ -10,17 +10,25 @@ document.addEventListener('click', (event) => {
 });
 
 menu.addEventListener('click', (event) => {
-  showMenu();
+  navbarAnimation();
 });
 
-function showMenu() { 
+function navbarAnimation() { 
+  navbar.classList.toggle('sizing');
+
+  const myTimeout = setTimeout(removeItens, 200);
+};
+
+function removeItens() {
   const spanItems = [...hidden];
-  console.log(spanItems)
 
   spanItems.map(item => item.classList.toggle('hidden'));
   vetImage.classList.toggle('hidden');
   vetLogo.classList.toggle('hidden');
   input.classList.toggle('hidden');
-  navbar.classList.toggle('sizing');
+};
+
+function myStopFunction() {
+  clearTimeout(myTimeout);
 };
 
