@@ -18,8 +18,6 @@ Projeto disponibilizado na Trilha Discover, gratuita, disponível na plataforma 
   <img alt="rocketpay" src="./assets/sidebar-closed.png" width="48%">
 </p>
 
-<br>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
