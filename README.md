@@ -1,34 +1,27 @@
-<h1 align="center"> Sidebar responsiva usando JavaScript </h1>
+<h1 align="center"> Sidebar </h1>
 
 <p align="center">
-Projeto disponibilizado na Trilha Discover, gratuita, disponível na plataforma da Rocketseat para ensino de tecnologias WEB.
+  Uma aplicação web de uma sidebar dinâmica desenvolvida com JavaScript.
 </p>
+
+------
+## Como acessar a página?
+
+Você pode acessar a aplicação utilizando um computador, tablet ou celular clicando [nesse]() link.
+
+Se você quiser clonar o repositório em sua máquina, não é necessário fazer nenhum tipo de instalação para sua utilização.
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-layout">Layout</a>
+  <img alt="App Layout" src="https://user-images.githubusercontent.com/108953489/216098299-aad76d36-fee9-4288-a856-f155a9e6a798.gif" width="80%">
 </p>
 
-<br>
+Você pode visualizar o layout do projeto original clicando [aqui](https://www.figma.com/file/CBDNfycCvGgSmFt5bdSj8c/DD-%2F-Sidebar-Responsiva-(Copy)?node-id=0%3A1).
 
-<p align="center">
-  <img alt="rocketpay" src="./assets/sidebar-open.png" width="48%">
-  <img alt="rocketpay" src="./assets/sidebar-closed.png" width="48%">
-</p>
+## Tecnologias utilizadas
 
-## 🚀 Tecnologias
+Tecnologias utilizadas e suas documentações:
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://www.javascript.com/)
 
-- HTML e CSS
-- JavaScript e DOM
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/CBDNfycCvGgSmFt5bdSj8c/DD-%2F-Sidebar-Responsiva-(Copy)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-<br>
-
----
-
-Feito com ♥ by Karine Brandelli e Wesley Damasceno :wave:
